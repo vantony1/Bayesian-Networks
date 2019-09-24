@@ -1,7 +1,4 @@
-Name: Victor Antony
-Course: CSC 242 Spring 2019
-
-I worked alone on this project. The project utilizes code produced by Prof. George Fergusion (CS: URochester)
+he project utilizes code produced by Prof. George Fergusion (CS: URochester)
 
 This project presents Bayesian Network Inferencers using Enumeration, Rejection Sampling, Likelihood Sampling and Gibbs Sampling
 
